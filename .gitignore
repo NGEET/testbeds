@@ -39,3 +39,11 @@ Thumbs.db
 # ignore netcdf files for now in case I put one in that is giant and messes everything up
 ######################
 *.nc
+
+# weird microsoft files
+######################
+~$*
+
+# emacs changed files
+######################
+*~
