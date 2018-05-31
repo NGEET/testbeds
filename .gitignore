@@ -47,3 +47,9 @@ Thumbs.db
 # emacs changed files
 ######################
 *~
+
+
+# dataset directories that I don't want to share
+######################
+BCI_testbed/traits_data/
+BCI_testbed/benchmark_datasets/
